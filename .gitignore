@@ -19,3 +19,11 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# firebase
+**/.firebase
+**/.firebaserc
+/firestore_testing_data/
+firestore_testing_data
+firebase-debug.log
+firestore-debug.log
